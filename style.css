@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    background-color: orange;
+}
+
+nav{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 80px;
+    background-color: gray;
+}
+
+h1{
+    margin-top: 80px;
+    margin-left: 10%;
+    width: 80%;
+    background-color: lightgray;
+    text-align: center;
+    color: red;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+}
+
+h2{
+    margin-top: 80px;
+    width: 90%;
+    height: 200px;
+    background-color: lightgray;
+    margin-left: 5%;
+}
+
+p{
+    background-color: lightgray;
+    margin-bottom: 20px;
+}
+
+img{
+    height: 200px;
+}
